@@ -1,4 +1,4 @@
-module gitlab.com/MalikChandr122/go-grpc-gateway-lib
+module github.com/malik7/go-grpc-gateway-lib
 
 go 1.19
 
